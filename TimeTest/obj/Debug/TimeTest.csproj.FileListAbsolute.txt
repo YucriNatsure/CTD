@@ -1,0 +1,15 @@
+C:\Users\ryuu0\source\repos\TimeTest\TimeTest\bin\Debug\TimeTest.exe.config
+C:\Users\ryuu0\source\repos\TimeTest\TimeTest\bin\Debug\TimeTest.exe
+C:\Users\ryuu0\source\repos\TimeTest\TimeTest\bin\Debug\TimeTest.pdb
+C:\Users\ryuu0\source\repos\TimeTest\TimeTest\obj\Debug\MainWindow.g.cs
+C:\Users\ryuu0\source\repos\TimeTest\TimeTest\obj\Debug\App.g.cs
+C:\Users\ryuu0\source\repos\TimeTest\TimeTest\obj\Debug\TimeTest_MarkupCompile.cache
+C:\Users\ryuu0\source\repos\TimeTest\TimeTest\obj\Debug\TimeTest_MarkupCompile.lref
+C:\Users\ryuu0\source\repos\TimeTest\TimeTest\obj\Debug\MainWindow.baml
+C:\Users\ryuu0\source\repos\TimeTest\TimeTest\obj\Debug\TimeTest.g.resources
+C:\Users\ryuu0\source\repos\TimeTest\TimeTest\obj\Debug\TimeTest.Properties.Resources.resources
+C:\Users\ryuu0\source\repos\TimeTest\TimeTest\obj\Debug\TimeTest.csproj.GenerateResource.cache
+C:\Users\ryuu0\source\repos\TimeTest\TimeTest\obj\Debug\TimeTest.csproj.CoreCompileInputs.cache
+C:\Users\ryuu0\source\repos\TimeTest\TimeTest\obj\Debug\TimeTest.exe
+C:\Users\ryuu0\source\repos\TimeTest\TimeTest\obj\Debug\TimeTest.pdb
+C:\Users\ryuu0\source\repos\TimeTest\TimeTest\obj\Debug\TimeTest.csproj.AssemblyReference.cache
